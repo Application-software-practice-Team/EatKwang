@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\바탕 화면\2023-1\응용소프트웨어실습\KwEatCategory\bin\Debug\KwEatCategory.exe.config
+C:\Users\user\OneDrive\바탕 화면\2023-1\응용소프트웨어실습\KwEatCategory\bin\Debug\KwEatCategory.exe
+C:\Users\user\OneDrive\바탕 화면\2023-1\응용소프트웨어실습\KwEatCategory\bin\Debug\KwEatCategory.pdb
+C:\Users\user\OneDrive\바탕 화면\2023-1\응용소프트웨어실습\KwEatCategory\obj\Debug\KwEatCategory.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\바탕 화면\2023-1\응용소프트웨어실습\KwEatCategory\obj\Debug\KwEatCategory.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\바탕 화면\2023-1\응용소프트웨어실습\KwEatCategory\obj\Debug\KwEatCategory.Form1.resources
+C:\Users\user\OneDrive\바탕 화면\2023-1\응용소프트웨어실습\KwEatCategory\obj\Debug\KwEatCategory.Properties.Resources.resources
+C:\Users\user\OneDrive\바탕 화면\2023-1\응용소프트웨어실습\KwEatCategory\obj\Debug\KwEatCategory.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\바탕 화면\2023-1\응용소프트웨어실습\KwEatCategory\obj\Debug\KwEatCategory.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\바탕 화면\2023-1\응용소프트웨어실습\KwEatCategory\obj\Debug\KwEatCategory.exe
+C:\Users\user\OneDrive\바탕 화면\2023-1\응용소프트웨어실습\KwEatCategory\obj\Debug\KwEatCategory.pdb
