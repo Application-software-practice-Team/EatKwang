@@ -1,0 +1,12 @@
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\obj\Debug\AppSoftwareProject.csproj.AssemblyReference.cache
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\obj\Debug\AppSoftwareProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\obj\Debug\AppSoftwareProject.Form1.resources
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\obj\Debug\AppSoftwareProject.Properties.Resources.resources
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\obj\Debug\AppSoftwareProject.csproj.GenerateResource.cache
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\obj\Debug\AppSoftwareProject.csproj.CoreCompileInputs.cache
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\bin\Debug\AppSoftwareProject.exe.config
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\bin\Debug\AppSoftwareProject.exe
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\bin\Debug\AppSoftwareProject.pdb
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\obj\Debug\AppSoftwareProject.exe
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\obj\Debug\AppSoftwareProject.pdb
+C:\Users\niceh\source\repos\AppSoftwareProject\AppSoftwareProject\obj\Debug\AppSoftwareProject.MyDlg.resources
