@@ -1,0 +1,10 @@
+C:\Users\jungj\source\repos\EatKwang\EatKwang\obj\Debug\EatKwang.csproj.AssemblyReference.cache
+C:\Users\jungj\source\repos\EatKwang\EatKwang\obj\Debug\EatKwang.KwangTwenty.resources
+C:\Users\jungj\source\repos\EatKwang\EatKwang\obj\Debug\EatKwang.Properties.Resources.resources
+C:\Users\jungj\source\repos\EatKwang\EatKwang\obj\Debug\EatKwang.csproj.GenerateResource.cache
+C:\Users\jungj\source\repos\EatKwang\EatKwang\obj\Debug\EatKwang.csproj.CoreCompileInputs.cache
+C:\Users\jungj\source\repos\EatKwang\EatKwang\bin\Debug\EatKwang.exe.config
+C:\Users\jungj\source\repos\EatKwang\EatKwang\bin\Debug\EatKwang.exe
+C:\Users\jungj\source\repos\EatKwang\EatKwang\bin\Debug\EatKwang.pdb
+C:\Users\jungj\source\repos\EatKwang\EatKwang\obj\Debug\EatKwang.exe
+C:\Users\jungj\source\repos\EatKwang\EatKwang\obj\Debug\EatKwang.pdb
